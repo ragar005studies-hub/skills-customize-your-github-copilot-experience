@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis-with-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn how to build REST APIs using FastAPI, Pydantic models, and JSON responses.",
+      "path": "assignments/building-rest-apis-with-fastapi",
+      "dueDate": "2026-06-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "main.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
