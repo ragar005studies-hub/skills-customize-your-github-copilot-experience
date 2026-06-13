@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "intro-to-flask-web-apps",
+      "title": "Intro to Flask Web Apps",
+      "description": "Build a beginner Flask web app with routes, HTML responses, and form handling.",
+      "path": "assignments/intro-to-flask-web-apps",
+      "dueDate": "2026-06-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "app.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
